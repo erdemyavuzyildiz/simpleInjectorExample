@@ -1,0 +1,12 @@
+# Build results
+**/bin/[Dd]ebug/
+**/bin/[Dd]ebugPublic/
+**/bin/[Rr]elease/
+x64/
+build/
+bld/
+**/.vs
+**/packages
+*.user
+*.suo
+**/obj
